@@ -74,10 +74,4 @@
 
 
 
-## Contributors
 
-| Name | Github |
-|---|---|
-| Bryan | https://github.com/BryanTheLai |
-| Yong | https://github.com/ahhyang |
-| Kevin | https://github.com/kevin07212004 |
